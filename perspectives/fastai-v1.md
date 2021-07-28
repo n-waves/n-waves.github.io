@@ -1,14 +1,7 @@
-[fastai: a library that makes deep learning accessible](fastai-v1.html){.u-url} {#fastai-a-library-that-makes-deep-learning-accessible .entry-title .p-name content-field="title"}
+fastai: a library that makes deep learning accessible
 ===============================================================================
 
-[[Piotr
-Czapla](perspectivesd28d.html?author=5b09e46da5fcacaf1738d32e){.p-author
-.author .entry-byline-link}]{.entry-author}
-
-[date:long](fastai-v1.html){.entry-dateline-link}
-
-[[Applied
-AI](category/Applied%2bAI.html){.entry-morefrom-link}]{.entry-category}
+autor: Piotr Czapla
 
 Recently our company, n-waves, has won [Poleval](http://poleval.pl/),
 national NLP competition. I'd like to share with you some resource
@@ -89,7 +82,6 @@ to give it a try with your own ideas if so let's [meet on their
 forum](http://forums.fast.ai/u/piotr.czapla/) I'm happy to help, and if
 you need a quick proof of concept you know where to find us.
 
-\
 *Photo by* [*chuttersnap*](https://unsplash.com/photos/eH_ftJYhaTY) *on
 Unsplash*
 

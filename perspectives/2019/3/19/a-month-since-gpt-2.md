@@ -1,14 +1,7 @@
-[A month since release of GPT-2](a-month-since-gpt-2.html){.u-url} {#a-month-since-release-of-gpt-2 .entry-title .p-name content-field="title"}
+A month since release of GPT-2
 ==================================================================
 
-[[Piotr
-Czapla](perspectivesd28d.html?author=5b09e46da5fcacaf1738d32e){.p-author
-.author .entry-byline-link}]{.entry-author}
-
-[date:long](a-month-since-gpt-2.html){.entry-dateline-link}
-
-[[Applied
-AI](category/Applied%2bAI.html){.entry-morefrom-link}]{.entry-category}
+autor: Piotr Czapla
 
 Remember the GPT-2 from OpenAI? (you can read my first reaction here).
 More than a month has passed since the release, but it is still all
@@ -46,5 +39,3 @@ in browsers.
 Overall I\'m excited to see the NLP space evolving so rapidly; after all
 these kinds of models were bound to appear sooner or later. I just hoped
 that it will appear more gradually.
-
-Tagged: [Law](tag/Law.html), [Marketing](tag/Marketing.html),

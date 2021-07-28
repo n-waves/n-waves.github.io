@@ -1,14 +1,7 @@
-[AI, Machine Learning, Deep Learning. Why should I care?](ai-machine-learning-deep-learning-why-should-i-care.html){.u-url} {#ai-machine-learning-deep-learning.-why-should-i-care .entry-title .p-name content-field="title"}
+AI, Machine Learning, Deep Learning. Why should I care?
 ===========================================================================================================================
 
-[[Piotr
-Czapla](perspectivesd28d.html?author=5b09e46da5fcacaf1738d32e){.p-author
-.author .entry-byline-link}]{.entry-author}
-
-[date:long](ai-machine-learning-deep-learning-why-should-i-care.html){.entry-dateline-link}
-
-[[Applied
-AI](category/Applied%2bAI.html){.entry-morefrom-link}]{.entry-category}
+autor: Piotr Czapla
 
 Artificial Intelligence (AI) is a research field focused on creating
 solutions that can independently make decisions and draw humanlike
@@ -20,7 +13,7 @@ mass culture about AI were a reflection of the fears that accompanied
 the generations living in the shadow of the Cold War and arms races. But
 what really is AI?
 
-### Netflix and machine learning {#netflix-and-machine-learning style="white-space: pre-wrap;"}
+### Netflix and machine learning 
 
 ![Picture1.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1534426380047-AYCEL5TSZHYNEMVHLZJP/ke17ZwdGBToddI8pDm48kFA7GMSzBhHzpQy6s_5vfr9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGXPnwOGb3NUF_PNj-_rIY6YZo8HuWcF2KY1-i7GLqmCd1lH3P2bFZvTItROhWrBJ0/Picture1.png)
 
@@ -50,7 +43,7 @@ themselves which viewer's behaviors say the most about his involvement
 in the film (or a lack thereof ). Distinguishing significant patterns of
 actions (features) was a human job. 
 
-### Deep Learning -- a few steps further {#deep-learning-a-few-steps-further style="white-space: pre-wrap;"}
+### Deep Learning -- a few steps further 
 
 ![Picture2.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1534426450394-B79VZQOTEJJL2LDFR0JT/ke17ZwdGBToddI8pDm48kFGAHoTIDbV2S6kRlb8KJ29Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI--nPSona9jt35w6f_LSz5kbvy5AnOKcztH6p7WYJAEs/Picture2.png)
 

@@ -1,14 +1,12 @@
-[Business applications of Natural Language Processing (NLP)](business-applications-of-natural-language-processing-nlp.html){.u-url} {#business-applications-of-natural-language-processing-nlp .entry-title .p-name content-field="title"}
+Business applications of Natural Language Processing (NLP)
 ===================================================================================================================================
 
-[[Barbara
-Jastrzebska](perspectives6ccd.html?author=5b4f91c43eb1ea2ee6416db3){.p-author
-.author .entry-byline-link}]{.entry-author}
+autor: Barbara Jastrzebska
 
-[date:long](business-applications-of-natural-language-processing-nlp.html){.entry-dateline-link}
+[date:long](business-applications-of-natural-language-processing-nlp.html)
 
 [[Applied
-AI](category/Applied%2bAI.html){.entry-morefrom-link}]{.entry-category}
+AI](category/Applied%2bAI.html)
 
 Is it possible for a computer to understand text or speech as humans do?
 And then translate it into another language?
@@ -22,7 +20,7 @@ translated as "vodka is good, but the meat is rotten". But despite its
 difficult beginnings NLP is fine and is useful in business. Here are
 some examples that we think you might find handy.
 
-Sentiment Analysis {#sentiment-analysis style="white-space: pre-wrap;"}
+Sentiment Analysis 
 ------------------
 
 *Area of application*: *Customer service (performance monitoring),
@@ -73,7 +71,7 @@ found out how to use transfer learning. We will devote another article
 to give you more details and briefly discuss the performance of
 sentiment models in different European languages.
 
-Named Entity Recognition (NER) {#named-entity-recognition-ner style="white-space: pre-wrap;"}
+Named Entity Recognition (NER) 
 ------------------------------
 
 *Area of application: brand monitoring, customer satisfaction research,
@@ -127,7 +125,7 @@ achieve highly accurate models the best is to use your own data.
 Fortunately, as in the case of sentiment analysis, the same tools can
 help you quickly add relevant text annotations.
 
-Text summarisation {#text-summarisation style="white-space: pre-wrap;"}
+Text summarisation 
 ------------------
 
 *Area of application: HR, law and insurances, healthcare and more   *
@@ -179,4 +177,3 @@ with plenty of useful business applications.
 *Photo by *[*수안
 최*](https://unsplash.com/photos/tXB7yfP9gg0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)* on Unsplash*
 
-Tagged: [Healthcare](tag/Healthcare.html),

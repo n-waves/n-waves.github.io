@@ -1,14 +1,7 @@
-[AI in HR. Between well-functioning software and real innovation](ai-in-hr-between-well-functioning-software-and-real-innovation.html){.u-url} {#ai-in-hr.-between-well-functioning-software-and-real-innovation .entry-title .p-name content-field="title"}
+AI in HR. Between well-functioning software and real innovation
 ==============================================================================================================================================
 
-[[Barbara
-Jastrzebska](perspectives6ccd.html?author=5b4f91c43eb1ea2ee6416db3){.p-author
-.author .entry-byline-link}]{.entry-author}
-
-[date:long](ai-in-hr-between-well-functioning-software-and-real-innovation.html){.entry-dateline-link}
-
-[[Applied
-AI](category/Applied%2bAI.html){.entry-morefrom-link}]{.entry-category}
+autor: Barbara Jastrzebska
 
 HR is often mentioned as one of the most certain fields to see AI in
 action. With high expectations there come the doubts that it is all a
@@ -80,5 +73,3 @@ is no reason to wait for the AI.
 This article was inspired by hopes and comments expressed in Forbes
 article from July 2018: [11 Ways AI Can Revolutionize Human
 Resources](https://www.forbes.com/sites/forbeshumanresourcescouncil/2018/07/09/11-ways-ai-can-revolutionize-human-resources/#501b35e2e304).
-
-Tagged: [HR](tag/HR.html), [Healthcare](tag/Healthcare.html),
