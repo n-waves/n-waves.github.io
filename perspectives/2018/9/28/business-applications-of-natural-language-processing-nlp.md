@@ -51,7 +51,7 @@ For example "This restaurant is nice, but the staff is rude."
 
  
 
-![IMG_3829.jpg](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1538217802851-T1C9JKBT904DBS8AI8PP/ke17ZwdGBToddI8pDm48kKmw982fUOZVIQXHUCR1F55Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw5XnxLBmEFHJGf_0qFdDpmIncOw4kq9OpCHNTYqzGO-E1YJr-Thht9Tdog4YtCwrE/IMG_3829.jpg)
+![IMG_3829.jpg](53.jpg)
 
 Even though we can get quite a high accuracy on sentiment analysis on
 specific sets of texts it is not possible yet to build a universal
@@ -127,7 +127,7 @@ Text summarisation
 
 ![Above example of text summarisation by google. The article How to turn
 on Siri:12 steps extracted and summarised in 7
-points.](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1538148975698-4P4J1STLTN9S3R5Z4F4C/ke17ZwdGBToddI8pDm48kCOTnSoV6tG46QSLtWYoXrAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcj1tOyHu0M4EKBg_AoUFjgT9e4OY5uGGMc_B5pUBCdOdoc4k4KMeLB3avBw-_Rel7/Screen+Shot+2018-09-28+at+17.34.10.png)
+points.](129.png)
 
 Above example of text summarisation by google. The article How to turn
 on Siri:12 steps extracted and summarised in 7 points.

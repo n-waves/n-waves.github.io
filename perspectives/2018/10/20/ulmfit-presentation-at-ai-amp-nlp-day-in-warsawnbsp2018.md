@@ -20,4 +20,4 @@ The code for poleval2018 can be found at
 pre-trained weights, you can fetch them from
 <https://go.n-waves.com/poleval2018-modelv1>
 
-![pic](https://static1.squarespace.com/static/5b4dba1c372b9677b7cf4abd/5b4e47ff1ae6cf93adb76405/5bcb693653450a8374d341a0/1548616411578/https_%252F%252Fcdn.evbuc.com%252Fimages%252F47963816%252F203737658863%252F1%252Foriginal.jpg)
+![pic](22.jpg)

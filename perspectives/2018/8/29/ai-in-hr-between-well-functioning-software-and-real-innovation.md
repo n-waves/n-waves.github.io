@@ -14,7 +14,7 @@ companies. Still, the same companies express a hope that somehow
 adoption of AI will magically fix the issues of their software or lack
 of thereof. 
 
-![rawpixel-668346-unsplash.jpg](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1535552233160-VWHNP2VDSXYMXA3I5PXV/ke17ZwdGBToddI8pDm48kFu84C23nyagYsP7Lr7qD_N7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO-H4zNXuPc7g6RzK3T59WFb1hAZHwHQMBFr9WYRPyXagw/rawpixel-668346-unsplash.jpg)
+![rawpixel-668346-unsplash.jpg](16.jpg)
 
 **Surely AI in HR can help in the following ways:**
 
@@ -49,7 +49,7 @@ breakthrough happens. Not in the simple automation and reducing
 administrative stuff which should be already solved at your organisation
 by well-crafted software. 
 
-![rawpixel-633846-unsplash.jpg](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1535552346212-8K74ZGGSVIOS0V8IK4JD/ke17ZwdGBToddI8pDm48kK5ZgJ934hl5jzByRlMNF617gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luUmcNM2NMBIHLdYyXL-JytGLG2WEFgtlvYkYLTiA9H1UvjSAzVIP56lK9ffmbPqg/rawpixel-633846-unsplash.jpg)
+![rawpixel-633846-unsplash.jpg](51.jpg)
 
 **Going to the other side of our summary, the following applications of
 AI would be unnecessary, maybe too expensive to implement and instead -

@@ -43,4 +43,4 @@ production, [[we are happy to
 help]](contact-us/index.html).
 Especially, if you're using fast.ai library.
 
-![pic](https://static1.squarespace.com/static/5b4dba1c372b9677b7cf4abd/5b4e47ff1ae6cf93adb76405/5c4de060aa4a9927324cc943/1548610080656/Frame+%281%29.jpg)
+![pic](45.jpeg)

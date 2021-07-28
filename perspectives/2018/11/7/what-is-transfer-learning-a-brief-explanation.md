@@ -16,7 +16,7 @@ instead of trying to solve this new task from scratch. To distinguish
 red roses from white ones you apply your knowledge gained on plenty of
 examples of what red colour is.
 
-![unnamed.jpg](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1541778846872-K24T2Q7CE5XEA3EAAPOK/ke17ZwdGBToddI8pDm48kMCof9kTSISDMe-s5TZm_N1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PITC5ngm61Fcyr-PVq05xb0CRWN6r5QkXuDUuicFx3E8wKMshLAGzx4R3EDFOm1kBS/unnamed.jpg)
+![unnamed.jpg](18.jpg)
 
 Humans and animals continuously use transfer learning to solve problems.
 Just to mention little kittens hunting on your socks, skill that in
@@ -28,7 +28,7 @@ us is how transfer learning is applied to computers and how deep
 learning benefits from it.
 
 ![Screen Shot 2018-11-07 at
-18.12.54.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1541611074119-QNOITTUJ5V36N2K5WCXR/ke17ZwdGBToddI8pDm48kHRGbr-gVeMAxec1FSvtSYMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc8jcMYAW_hbNYC4tp3QJwOEpZL0P6XsM4FK1bb4hFv6DxPW7b56uXKWY9Et9IdzOf/Screen+Shot+2018-11-07+at+18.12.54.png)
+18.12.54.png](30.png)
 
 ### Transfer learning in deep learning 
 

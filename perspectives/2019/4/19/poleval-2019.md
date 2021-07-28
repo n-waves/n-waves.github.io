@@ -8,7 +8,7 @@ That will be the second time in the row! The competition was strong, and
 congratulations to them. It is nice to see that simpler and faster
 architecture like ULMFiT beat huge models like BERT.
 
-![](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1556926467236-JHJBKJIGS0YLUMLHRFAV/ke17ZwdGBToddI8pDm48kKFfCYOclHn8ZBBDnM-ceg57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USa6brON68XjpjaRhj_XDFqk6Z1hSwWt_5HGYTHlTiN7JvwGh1qtNWvMhYKnvaKhbA/image-asset.png)
+![](10.png)
 
 <http://poleval.pl/results/>
 

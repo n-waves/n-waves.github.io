@@ -24,4 +24,4 @@ NLP Day organised by the creators of PolEval this autumn. Hope you will
 join us at the event!
 
 
-![Picture1.png](https://static1.squarespace.com/static/5b4dba1c372b9677b7cf4abd/5b4e47ff1ae6cf93adb76405/5b7b444721c67c195426285c/1537802568421/roven-images-601197-unsplash.jpg)
+![Picture1.png](26.jpg)

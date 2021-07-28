@@ -15,7 +15,7 @@ what really is AI?
 
 ### Netflix and machine learning 
 
-![Picture1.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1534426380047-AYCEL5TSZHYNEMVHLZJP/ke17ZwdGBToddI8pDm48kFA7GMSzBhHzpQy6s_5vfr9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGXPnwOGb3NUF_PNj-_rIY6YZo8HuWcF2KY1-i7GLqmCd1lH3P2bFZvTItROhWrBJ0/Picture1.png)
+![Picture1.png](17.png)
 
 As you see, we seek AI for nearly 80 years. The only reason for recent
 boom in media is the fact that we are getting closer; thanks to a subset
@@ -45,7 +45,7 @@ actions (features) was a human job. 
 
 ### Deep Learning -- a few steps further 
 
-![Picture2.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1534426450394-B79VZQOTEJJL2LDFR0JT/ke17ZwdGBToddI8pDm48kFGAHoTIDbV2S6kRlb8KJ29Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI--nPSona9jt35w6f_LSz5kbvy5AnOKcztH6p7WYJAEs/Picture2.png)
+![Picture2.png](47.png)
 
 With the advent of deep learning, feature extraction, a labor-intensive
 task is successfully taken over by algorithms, what makes years of
@@ -55,7 +55,7 @@ look at the results from yearly image recognition challenge, where the
 modern deep learning was reborn in 2012, here is the error rate of best
 models the lower the better: 
 
-![Picture1.png](https://images.squarespace-cdn.com/content/v1/5b4dba1c372b9677b7cf4abd/1534426265495-ISJDS5XSQLCUBLQYM57B/ke17ZwdGBToddI8pDm48kAPxcVUoiQieI_041RWBSU9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIdCSJWFmqLPjR7MJOQk7cDK_-DxIkUccpwpTKwwIIJQk/Picture1.png)
+![Picture1.png](57.png)
 
 Deep learning opened the door to yet uncovered parts of the Machine
 Learning. Like Generative Adversary Networks ( GANs), where computers
