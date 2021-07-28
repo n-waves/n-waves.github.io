@@ -3,11 +3,6 @@ Business applications of Natural Language Processing (NLP)
 
 autor: Barbara Jastrzebska
 
-[date:long](business-applications-of-natural-language-processing-nlp.html)
-
-[[Applied
-AI](category/Applied%2bAI.html)
-
 Is it possible for a computer to understand text or speech as humans do?
 And then translate it into another language?
 
